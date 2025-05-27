@@ -61,7 +61,7 @@ Embora o projeto rode no Wokwi sem Wi-Fi real, o código contém trechos comenta
 
 1. Acesse o projeto no Wokwi: **(https://wokwi.com/projects/432023123854233601)**  
 2. Clique em ▶️ "Start Simulation"
-3. Aproxime ou afaste um objeto do sensor (simulação do nível da água)
+3. Clique no sensor Ultrasónico, a seguir vai aparecer uma barra para controlar o nivel de distança detectado(simulando o nível da água) e assim podera ser visualizado o funcionamento.
 4. Observe os LEDs e mensagens no Serial Monitor
 
 ---
