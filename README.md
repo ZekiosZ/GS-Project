@@ -10,9 +10,9 @@
 
 ## 🌧️ Descrição do Projeto
 
-Este projeto simula um sistema de monitoramento de enchentes utilizando um **ESP32** e um **sensor ultrassônico HC-SR04**. Ele mede o nível da água e, com base nessa leitura, aciona alertas visuais e sonoros. O sistema também simula uma comunicação com a nuvem (IoT) para enviar notificações sobre a situação.
+Este projeto simula um sistema de monitoramento de enchentes em rios utilizando um **ESP32** e um **sensor ultrassônico HC-SR04**. Ele mede o nível da água e, com base nessa leitura, aciona alertas visuais e sonoros. O sistema também simula uma comunicação com a nuvem (IoT) para enviar notificações sobre a situação.
 
-A proposta visa oferecer uma solução acessível e eficaz para **prevenção de desastres em áreas de risco de alagamento** no Brasil.
+A proposta visa oferecer uma solução acessível e eficaz para **prevenção de desastres em áreas de risco de alagamento por rios proximos** no Brasil.
 
 ---
 
